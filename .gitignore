@@ -1,0 +1,6 @@
+env
+migrations
+manixmanik.pem
+.vscode
+*.pyc
+__pycache__

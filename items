@@ -1,0 +1,43 @@
+{
+    "page": 1,
+    "total_page": 1,
+    "per_page": 25,
+    "data": [
+        {
+            "id": 1,
+            "itemname": "Aoduola bracelet",
+            "desc": "Blue charm lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "category": "1",
+            "price": 50000,
+            "qty": 300,
+            "url_picture": "https://ae01.alicdn.com/kf/HTB12MRKLpXXXXbgXXXXq6xXFXXX1/Aoduola-biru-manik-manik-kaca-charm-gelang-gelang-manik-manik-gelang-kura-kura-laut-gelang-untuk.jpg_640x640.jpg",
+            "createdAt": "2018-11-06 02:16:56",
+            "updatedAt": "2018-11-06 02:18:51",
+            "seller_id": "2"
+        },
+        {
+            "id": 2,
+            "itemname": "Pink blouse with beads",
+            "desc": "Pink blouse lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "category": "2",
+            "price": 200000,
+            "qty": 30,
+            "url_picture": "https://s2.bukalapak.com/img/7219822191/w-1000/Baju_manik_garis_dua_kombinasi_warna_tangan_terompet.jpg",
+            "createdAt": "2018-11-06 02:23:05",
+            "updatedAt": "2018-11-06 02:23:05",
+            "seller_id": "3"
+        },
+        {
+            "id": 3,
+            "itemname": "Ethnic manik bag",
+            "desc": "Manik bag lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "category": "3",
+            "price": 150000,
+            "qty": 50,
+            "url_picture": "https://image.winmarket.id/img/winmarket/2247/122247/2018/04/27/83f89e2963bbcc72f08204ef3270afe1b14e043c_0.44306800_1524800269.jpeg",
+            "createdAt": "2018-11-06 02:26:35",
+            "updatedAt": "2018-11-06 02:26:35",
+            "seller_id": "4"
+        }
+    ]
+}
