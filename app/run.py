@@ -18,7 +18,7 @@ Base = declarative_base()
 
 app = Flask(__name__)
 CORS(app, resources={r"*": {"origin" : "*"}})
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://4QM30GS0bR:35wYFCKxFX@remotemysql.com:3306/4QM30GS0bR'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://Y75Ywil98W:v9oICxvz9t@remotemysql.com:3306/Y75Ywil98W'
 app.config['JWT_SECRET_KEY'] = 'manixmanik-secret-key'
 
 
